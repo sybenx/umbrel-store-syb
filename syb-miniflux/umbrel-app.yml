@@ -1,20 +1,17 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
+id: syb-miniflux
+name: Miniflux
 tagline: Replace this tagline with your app's tagline
 icon: https://svgur.com/i/mvA.svg
-category: Development
-version: "1.0.0"
+category: Social
+version: "2.1.3"
 port: 4000
 description: >-
-  Add your app's description here.
+  Miniflux is a minimalist and opinionated feed reader.
 
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
+developer: Frédéric Guillot
+website: https://miniflux.app
+submitter: sybenx
 submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
@@ -23,7 +20,7 @@ gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  April 27, 2024 https://miniflux.app/releases.html
 dependencies: []
 path: ""
 defaultUsername: ""
