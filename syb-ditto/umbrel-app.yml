@@ -1,13 +1,17 @@
 manifestVersion: 1
-id: syb-miniflux
-name: Miniflux
-tagline: Replace this tagline with your app's tagline
+id: syb-ditto
+name: Ditto
+tagline: Ditto is a tiny but powerful social media server for the decentralized web.
 icon: https://gitlab.com/soapbox-pub/ditto/-/raw/main/ditto-planet.png
 category: Social
-version: "2.1.3"
+version: "afcf28b50629b65b11d0de05cd299a725dc01af6"
 port: 3568
 description: >-
-  Miniflux is a minimalist and opinionated feed reader.
+Ditto is a Nostr server for building resilient communities online.
+With Ditto, you can create your own social network that is decentralized, customizable, and free from ads and tracking.
+For more info see: https://docs.soapbox.pub/ditto/
+
+⚠️ This software is a work in progres.
 
 developer: Frédéric Guillot
 website: https://miniflux.app
@@ -20,4 +24,4 @@ gallery:
   - https://miniflux.app/images/mobile-view.png
   - https://miniflux.app/images/comics.png
 releaseNotes: >-
-  April 27, 2024 https://miniflux.app/releases.html
+  None
