@@ -7,11 +7,13 @@ category: Social
 version: "afcf28b50629b65b11d0de05cd299a725dc01af6"
 port: 3568
 description: >-
-Ditto is a Nostr server for building resilient communities online.
-With Ditto, you can create your own social network that is decentralized, customizable, and free from ads and tracking.
-For more info see: https://docs.soapbox.pub/ditto/
+ Ditto is a Nostr server for building resilient communities online.
+ 
+ With Ditto, you can create your own social network that is decentralized, customizable, and free from ads and tracking.
+ 
+ For more info see: https://docs.soapbox.pub/ditto/
 
-⚠️ This software is a work in progres.
+ ⚠️ This software is a work in progres.
 
 developer: Frédéric Guillot
 website: https://miniflux.app
